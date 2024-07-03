@@ -1,2 +1,2 @@
 # Portfolio
-its my first portfolio
+Its my first portfolio
